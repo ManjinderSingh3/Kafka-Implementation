@@ -1,0 +1,14 @@
+{
+  "name": "Kafka-Implementation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ManjinderSingh3/Kafka-Implementation.git",
+  "author": "Manjinder <msinghw3@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "tsc -b && node dist/index.js"
+  },
+  "dependencies": {
+    "kafkajs": "^2.2.4"
+  }
+}
